@@ -1,0 +1,12 @@
+C:\Users\burak bozoğlu\source\repos\WindowsFormsApp34\WindowsFormsApp34\bin\Debug\WindowsFormsApp34.exe.config
+C:\Users\burak bozoğlu\source\repos\WindowsFormsApp34\WindowsFormsApp34\bin\Debug\WindowsFormsApp34.exe
+C:\Users\burak bozoğlu\source\repos\WindowsFormsApp34\WindowsFormsApp34\bin\Debug\WindowsFormsApp34.pdb
+C:\Users\burak bozoğlu\source\repos\WindowsFormsApp34\WindowsFormsApp34\obj\Debug\WindowsFormsApp34.csproj.AssemblyReference.cache
+C:\Users\burak bozoğlu\source\repos\WindowsFormsApp34\WindowsFormsApp34\obj\Debug\WindowsFormsApp34.csproj.SuggestedBindingRedirects.cache
+C:\Users\burak bozoğlu\source\repos\WindowsFormsApp34\WindowsFormsApp34\obj\Debug\WindowsFormsApp34.Form1.resources
+C:\Users\burak bozoğlu\source\repos\WindowsFormsApp34\WindowsFormsApp34\obj\Debug\WindowsFormsApp34.Properties.Resources.resources
+C:\Users\burak bozoğlu\source\repos\WindowsFormsApp34\WindowsFormsApp34\obj\Debug\WindowsFormsApp34.csproj.GenerateResource.cache
+C:\Users\burak bozoğlu\source\repos\WindowsFormsApp34\WindowsFormsApp34\obj\Debug\WindowsFormsApp34.csproj.CoreCompileInputs.cache
+C:\Users\burak bozoğlu\source\repos\WindowsFormsApp34\WindowsFormsApp34\obj\Debug\WindowsFormsApp34.exe
+C:\Users\burak bozoğlu\source\repos\WindowsFormsApp34\WindowsFormsApp34\obj\Debug\WindowsFormsApp34.pdb
+C:\Users\burak bozoğlu\source\repos\WindowsFormsApp34\WindowsFormsApp34\obj\Debug\WindowsFormsApp34.Form3.resources
